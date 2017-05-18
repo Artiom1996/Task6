@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task6</string>
+    <string name="text_custom_view">custom view</string>
+    <string name="text_angkor_wat">angkor wat</string>
+    <string name="text_church_of_our_savior">church of our savior</string>
+    <string name="text_great_cathedral_and_mosque">great cathedral and mosque</string>
+    <string name="text_lincoln_memorial">lincoln memorial</string>
+    <string name="text_machu_picchu">machu picchu</string>
+    <string name="text_sheikh_zayed_grand_mosque">sheikh zayed grand mosque</string>
+    <string name="text_st_peter_s_basilica">st peters basilica</string>
+    <string name="text_taj_mahal">taj mahal</string>
+    <string name="text_the_alhambra">the alhambra</string>
+    <string name="text_cathedral_duomo">cathedral duomo</string>
+    <string name="text_recycler_view">recycler view</string>
+    <string name="title_card_menu">card menu</string>
+</resources>
